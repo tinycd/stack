@@ -1,0 +1,11 @@
+/*
+Theme Name: Stack Child
+Theme URI: 
+Description: Child theme for the Stack theme
+Author: <a href="http://www.madeinebor.com">Tom Rhodes</a>
+Author URI: 
+Template: stackWordPressTheme
+Version: 1.0.0
+*/
+
+@import url('../stackWordPressTheme/style.css');
